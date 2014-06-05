@@ -19,7 +19,7 @@ namespace SeError
 
 			Thread.Sleep(1000);
 
-			testError.Stop();
+			testError.Stop(); //FOR FIX REPOLCE STRINGS 22 AND 23
 			testError.Deinit();
 
 
